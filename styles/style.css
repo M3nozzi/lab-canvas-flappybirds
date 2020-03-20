@@ -2,6 +2,13 @@ body {
   text-align: center;
 }
 
+canvas {
+  background-image: url('../images/bg.png');
+  background-size: cover;
+  width: 600px;
+  height: 400px
+}
+
 body h1 {
   font-size: 30px;
   text-transform: uppercase;
@@ -17,3 +24,5 @@ body button {
   border-radius: 5px;
   margin-bottom: 20px;
 }
+
+
